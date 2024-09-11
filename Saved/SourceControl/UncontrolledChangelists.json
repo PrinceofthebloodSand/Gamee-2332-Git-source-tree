@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Prince/Desktop/Game 332/Gamee-2332-Git-source-tree/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/Prince/Desktop/Game 332/Gamee-2332-Git-source-tree/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Prince/Desktop/Game 332/Gamee-2332-Git-source-tree/Content/Maps/Main_Menu_Level.umap",
+				"C:/Users/Prince/Desktop/Game 332/Gamee-2332-Git-source-tree/Content/Maps/Card-Game-Level.umap",
+				"C:/Users/Prince/Desktop/Game 332/Gamee-2332-Git-source-tree/Content/Maps/Red_Table_Level.umap",
+				"C:/Users/Prince/Desktop/Game 332/Gamee-2332-Git-source-tree/Content/Maps/Main_Menu_Level_BuiltData.uasset",
+				"C:/Users/Prince/Desktop/Game 332/Gamee-2332-Git-source-tree/Content/Maps/Red_Table_Level_BuiltData.uasset",
+				"C:/Users/Prince/Desktop/Game 332/Gamee-2332-Git-source-tree/Content/_Noah/widgets/Lobby_Host-Join.uasset",
+				"C:/Users/Prince/Desktop/Game 332/Gamee-2332-Git-source-tree/Content/_Noah/widgets/Base_Buttun_TMP.uasset",
+				"C:/Users/Prince/Desktop/Game 332/Gamee-2332-Git-source-tree/Content/_Noah/Player_Controller_NC_Test.uasset"
 			]
 		}
 	]
