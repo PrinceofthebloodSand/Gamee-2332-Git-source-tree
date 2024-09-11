@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\prince\\desktop\\game 332\\gamee-2332-git-source-tree\\source\\game_2332\\game_2332.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\prince\\desktop\\game 332\\gamee-2332-git-source-tree\\intermediate\\build\\win64\\x64\\game_2332editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\prince\\desktop\\game 332\\gamee-2332-git-source-tree\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\game_2332\\definitions.game_2332.h",
+            "c:\\users\\prince\\desktop\\game 332\\gamee-2332-git-source-tree\\source\\game_2332\\game_2332.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

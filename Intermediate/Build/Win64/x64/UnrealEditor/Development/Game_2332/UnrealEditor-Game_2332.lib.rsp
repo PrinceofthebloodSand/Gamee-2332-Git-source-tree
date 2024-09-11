@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Game_2332.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Prince\Desktop\Game 332\Gamee-2332-Git-source-tree\Intermediate\Build\Win64\x64\Game_2332Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\Prince\Desktop\Game 332\Gamee-2332-Git-source-tree\Intermediate\Build\Win64\x64\UnrealEditor\Development\Game_2332\Game_2332.cpp.obj"
+"C:\Users\Prince\Desktop\Game 332\Gamee-2332-Git-source-tree\Intermediate\Build\Win64\x64\UnrealEditor\Development\Game_2332\RedTable.cpp.obj"
+"C:\Users\Prince\Desktop\Game 332\Gamee-2332-Git-source-tree\Intermediate\Build\Win64\x64\UnrealEditor\Development\Game_2332\Default.rc2.res"
+/OUT:"C:\Users\Prince\Desktop\Game 332\Gamee-2332-Git-source-tree\Intermediate\Build\Win64\x64\UnrealEditor\Development\Game_2332\UnrealEditor-Game_2332.lib"

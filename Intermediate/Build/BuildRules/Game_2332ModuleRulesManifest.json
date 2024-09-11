@@ -1,7 +1,10 @@
 {
 	"SourceFiles": [
+		"C:\\Users\\Prince\\Desktop\\Game 332\\Gamee-2332-Git-source-tree\\Source\\Game_2332\\Game_2332.Build.cs",
 		"C:\\Users\\Prince\\Desktop\\Game 332\\Gamee-2332-Git-source-tree\\Plugins\\AdvancedSessions\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
-		"C:\\Users\\Prince\\Desktop\\Game 332\\Gamee-2332-Git-source-tree\\Plugins\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs"
+		"C:\\Users\\Prince\\Desktop\\Game 332\\Gamee-2332-Git-source-tree\\Plugins\\AdvancedSessions\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"C:\\Users\\Prince\\Desktop\\Game 332\\Gamee-2332-Git-source-tree\\Source\\Game_2332.Target.cs",
+		"C:\\Users\\Prince\\Desktop\\Game 332\\Gamee-2332-Git-source-tree\\Source\\Game_2332Editor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }
